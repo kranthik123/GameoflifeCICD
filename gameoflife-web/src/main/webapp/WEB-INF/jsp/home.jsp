@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>The Game Of Life - Ankesh</title>
+    <title>The Game Of Life - Santosh and Akshay</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -39,7 +39,7 @@
             border-left: 2px solid rgb(100, 100, 100);
             border-top: 2px solid rgb(150, 150, 150);
             border-right: 2px solid rgb(150, 150, 150);
-            background: silver;
+            background: red;
             width: 100px;
             margin: 8px;
             padding: 4px;
