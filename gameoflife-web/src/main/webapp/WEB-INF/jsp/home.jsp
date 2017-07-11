@@ -39,7 +39,7 @@
             border-left: 2px solid rgb(100, 100, 100);
             border-top: 2px solid rgb(150, 150, 150);
             border-right: 2px solid rgb(150, 150, 150);
-            background: white;
+            background: red;
             width: 100px;
             margin: 8px;
             padding: 4px;
