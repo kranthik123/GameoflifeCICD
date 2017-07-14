@@ -23,7 +23,7 @@
         }
 
         .footer {
-            color: white;
+            color: silver;
             font-size: medium;
             text-align: right;
             background-color: blue;
