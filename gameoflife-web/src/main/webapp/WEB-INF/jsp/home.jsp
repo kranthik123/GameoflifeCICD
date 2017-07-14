@@ -23,7 +23,7 @@
         }
 
         .footer {
-            color: red;
+            color: white;
             font-size: medium;
             text-align: right;
             background-color: blue;
@@ -39,7 +39,7 @@
             border-left: 2px solid rgb(100, 100, 100);
             border-top: 2px solid rgb(150, 150, 150);
             border-right: 2px solid rgb(150, 150, 150);
-            background: red;
+            background: silver;
             width: 100px;
             margin: 8px;
             padding: 4px;
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Game Of Life!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
