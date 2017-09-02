@@ -23,7 +23,7 @@
         }
 
         .footer {
-            color: black;
+            color: blue;
             font-size: medium;
             text-align: right;
             background-color: blue;
@@ -37,7 +37,7 @@
         .action-button {
             border-bottom: 2px solid rgb(100, 100, 100);
             border-left: 2px solid rgb(100, 100, 100);
-            border-top: 2px solid rgb(150, 150, 150);
+            border-top: 2px solid rgb(150, 150, 150); 
             border-right: 2px solid rgb(150, 150, 150);
             background: silver;
             width: 100px;
