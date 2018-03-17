@@ -3,7 +3,7 @@
 <%@page import="java.io.IOException" %>
 <%@page import="java.util.Properties" %>
 <html>
-<head>to
+<head>
     <title>The Game Of Life - santosh </title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
@@ -26,7 +26,7 @@
             color: blue;
             font-size: medium;
             text-align: right;
-            background-color: blue;
+            background-color: red;
             margin-top: 100px;
             border-top: thin solid blue;
             padding: 2px;
